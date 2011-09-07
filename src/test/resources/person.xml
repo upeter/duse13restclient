@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<person>
+  <id>1</id>
+  <name>John Doe</name>
+  <birthdate>1975-07-01T19:58:54.812+01:00</birthdate>
+  <hobbies>
+    <hobby>Scala programming</hobby><hobby>Lift</hobby><hobby>Akka</hobby>
+  </hobbies>
+</person>
+
